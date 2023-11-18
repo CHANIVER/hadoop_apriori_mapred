@@ -1,0 +1,1 @@
+# hadoop_apriori_mapred
